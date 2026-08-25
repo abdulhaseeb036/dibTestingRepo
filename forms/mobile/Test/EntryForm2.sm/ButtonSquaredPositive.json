@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "s7a77d89ec0a4fda95b5a023b7ded43e",
+    "_text_": "Save",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4238e8d8aa448138c41b36f12434b00",
+    "id": "ButtonSquaredPositive",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b3e86cd6a1014635a1b997138742fb9d",
+    "name": "kony.ui.Button",
+    "parent": "ContainerPositive",
+    "pf": "EntryForm2",
+    "wType": "Button",
+    "zindex": 1
+}
