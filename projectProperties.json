@@ -246,6 +246,7 @@
     "cloud_account_guid": "9e86d0c8-1b1d-4455-8c2f-e83def01a72a",
     "cloud_account_id": "",
     "cloud_config_ipaddress_list": "",
+    "cloud_env_GUID": null,
     "cloud_http_redirect": "false",
     "cloud_selected_ipaddress_list": "",
     "cloud_web_xml_custom_filters": "",
@@ -645,9 +646,11 @@
     "read_device_identifying_information": "false",
     "referenceWidth": "375",
     "registerForDeepLink": {
+        "androidwear": false,
         "desktop": false,
         "mobile": false,
-        "tablet": false
+        "tablet": false,
+        "watch": false
     },
     "schemekey": "",
     "schemekey_andwear": "",
@@ -660,7 +663,7 @@
     "settings_gradle_attrs_andwear": "",
     "sitemapxmlpath": "",
     "splashlogokey": "",
-    "startupformkey": "fb6e88e7d7c94c68aa13478d43b174b5",
+    "startupformkey": "ad8313e817b3405eb677ca91d351df8f",
     "statusBarHidden": "false",
     "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
     "studiovizproject": "true",

@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "24%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s42cf0b383e7cee10e18093a891d8b7d",
+    "_top_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "92%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblBankDetailsHeading",
+        "lblAccountNumberCaption",
+        "lblAccountNumberValue",
+        "lblBankCaption",
+        "lblBankValue",
+        "lblBeneficiaryCaption",
+        "lblBeneficiaryValue"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": false,
+    "id": "flxBankDetailsCard",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fd0378fa1167a2181d6df7de10b6819a",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "ManageBeneficiaries",
+    "pf": "ManageBeneficiaries",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

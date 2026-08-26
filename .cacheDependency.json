@@ -817,6 +817,1161 @@
         }
       }
     },
+    "ad8313e817b3405eb677ca91d351df8f": {
+      "dependencies": [
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slForm",
+            "kuid": "sfbe0b910dfe4363bf286a9d2ada7748",
+            "wType": "Form",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ad8313e817b3405eb677ca91d351df8f",
+            "wType": "Form",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\frmStartup.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slTitleBar",
+            "kuid": "s7c2028af1a84384b11825e5ea71b5d2",
+            "wType": "TitleBar",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ad8313e817b3405eb677ca91d351df8f",
+            "wType": "Form",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\frmStartup.json",
+            "keyPath": [
+              "titleBarSkin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "headerContainerSknMaster",
+            "kuid": "s5b7da96f4f5486fb5e4338af3dc03c6",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "d94f0f60b4da4a0e8c206387b9ca5e17",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxHeaderContainer.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "headerTitleSkinMaster",
+            "kuid": "sb1991b46f8f4ec891a4d6dbd542bf0a",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": [
+              "iphone",
+              "android"
+            ]
+          },
+          "relationInfo": {
+            "kuid": "ef98cbab8a214c7d9278e60c8ced8f37",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\headerTitleLabel.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "id75af671c5e400081ed3821206ad469",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxCreateScrollContainer.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "df556f449a774dfdb2c3d3accbdaff40",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxFirstName.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblCreateTitle",
+            "kuid": "s3f7fd6f09d149cca47af210807b3198",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "j04574a9c3b64469af10410957bbd03b",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblFirstName.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxNormal",
+            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "cc3a9b186f7d40b792e8fdb8e11224db",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtFirstName.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxFocus",
+            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "cc3a9b186f7d40b792e8fdb8e11224db",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtFirstName.json",
+            "keyPath": [
+              "focusskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
+            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "cc3a9b186f7d40b792e8fdb8e11224db",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtFirstName.json",
+            "keyPath": [
+              "placeholderskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ce080b38f8154e149f1200efbff53dd1",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxLastName.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblCreateTitle",
+            "kuid": "s3f7fd6f09d149cca47af210807b3198",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "add6bf33c01e4a82beeb050c7047778c",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblLastname.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxNormal",
+            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ed5f659eaf564fd299b3299e19367b91",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtLastName.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxFocus",
+            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ed5f659eaf564fd299b3299e19367b91",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtLastName.json",
+            "keyPath": [
+              "focusskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
+            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ed5f659eaf564fd299b3299e19367b91",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtLastName.json",
+            "keyPath": [
+              "placeholderskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "d1d0bcd5558645e5926ecaac611964d8",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxEmail.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblCreateTitle",
+            "kuid": "s3f7fd6f09d149cca47af210807b3198",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "d7d05a2b83f44363921bb1bf9be0bccd",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblEmail.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxNormal",
+            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "jf0b864d845c4d509f95703c989c4ab3",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtEmail.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxFocus",
+            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "jf0b864d845c4d509f95703c989c4ab3",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtEmail.json",
+            "keyPath": [
+              "focusskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
+            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "jf0b864d845c4d509f95703c989c4ab3",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtEmail.json",
+            "keyPath": [
+              "placeholderskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "cd48b373ea8945b9a2a5ab5610cf0ec8",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxDepartment.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblCreateTitle",
+            "kuid": "s3f7fd6f09d149cca47af210807b3198",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "c15b418d434e4b49a73fa897c9d4d8cf",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblDepartment.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxNormal",
+            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "e7c19aabc139408ab0e15e349b45f699",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDepartment.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxFocus",
+            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "e7c19aabc139408ab0e15e349b45f699",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDepartment.json",
+            "keyPath": [
+              "focusskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
+            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "e7c19aabc139408ab0e15e349b45f699",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDepartment.json",
+            "keyPath": [
+              "placeholderskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ce14bbbca8eb43d6b62a312a159ef1a5",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxDesignation.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblCreateTitle",
+            "kuid": "s3f7fd6f09d149cca47af210807b3198",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "a567ece9322848c7a6c03458bc40df3d",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblDesignation.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxNormal",
+            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "f7927b2d770b46f9a75bdf1b5532ddb8",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDesignation.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxFocus",
+            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "f7927b2d770b46f9a75bdf1b5532ddb8",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDesignation.json",
+            "keyPath": [
+              "focusskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
+            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "f7927b2d770b46f9a75bdf1b5532ddb8",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDesignation.json",
+            "keyPath": [
+              "placeholderskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "b230be0f143c4b429aa0a64450e0f398",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxPhone.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblCreateTitle",
+            "kuid": "s3f7fd6f09d149cca47af210807b3198",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "dc8b21c413f04430befc85661006efb3",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblPhone.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxNormal",
+            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "e3f23bd7c02344679a98be5e0d37f95b",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtPhone.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxFocus",
+            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "e3f23bd7c02344679a98be5e0d37f95b",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtPhone.json",
+            "keyPath": [
+              "focusskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
+            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "e3f23bd7c02344679a98be5e0d37f95b",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtPhone.json",
+            "keyPath": [
+              "placeholderskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ae603b52fc5b429eb4e08797394d3097",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxCompany.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblCreateTitle",
+            "kuid": "s3f7fd6f09d149cca47af210807b3198",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "j8c9d9d68cd545399a9cc512533da0d1",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblCompany.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxNormal",
+            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ada9923465004618b781b95ed7ae37b9",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtCompany.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "defTextBoxFocus",
+            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ada9923465004618b781b95ed7ae37b9",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtCompany.json",
+            "keyPath": [
+              "focusskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
+            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
+            "wType": "TextField",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ada9923465004618b781b95ed7ae37b9",
+            "wType": "TextField",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtCompany.json",
+            "keyPath": [
+              "placeholderskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox0cad1aa24bf674f",
+            "kuid": "s601669625a64b8299471cc55da5cb66",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "f73386a4e9304768b6bd2cc164ed522f",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxSave.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "CopyslFbox1",
+            "kuid": "s37c30137f1642e1a5596e134a89f072",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "eef0c96c8fd04aba8f4f12944ae278c8",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\SquaredBorderedButton.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "CopySquaredBorderedButtonNormal",
+            "kuid": "saefc543790443ad87ab4de9909445bb",
+            "wType": "Button",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": [
+              "iphone",
+              "ipad",
+              "tabrcandroid",
+              "desktopweb",
+              "watchos"
+            ]
+          },
+          "relationInfo": {
+            "kuid": "b2b80f0db1824c8a8dff1e4abd858e0e",
+            "wType": "Button",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\SquaredBtn.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "CopySquaredBorderedButtonActive",
+            "kuid": "sa2873f96f924117b257235a2a9bc428",
+            "wType": "Button",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": [
+              "iphone",
+              "android",
+              "ipad",
+              "tabrcandroid",
+              "desktopweb",
+              "watchos"
+            ]
+          },
+          "relationInfo": {
+            "kuid": "b2b80f0db1824c8a8dff1e4abd858e0e",
+            "wType": "Button",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\SquaredBtn.json",
+            "keyPath": [
+              "focusskin"
+            ]
+          }
+        }
+      ],
+      "models": {
+        "ad8313e817b3405eb677ca91d351df8f": {
+          "id": "frmStartup",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\frmStartup.json",
+          "wType": "Form",
+          "name": "kony.ui.Form2",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view"
+        },
+        "d94f0f60b4da4a0e8c206387b9ca5e17": {
+          "id": "flxHeaderContainer",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxHeaderContainer.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxHeaderContainer"
+        },
+        "ef98cbab8a214c7d9278e60c8ced8f37": {
+          "id": "headerTitleLabel",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\headerTitleLabel.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.headerTitleLabel"
+        },
+        "id75af671c5e400081ed3821206ad469": {
+          "id": "flxCreateScrollContainer",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxCreateScrollContainer.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 4,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxCreateScrollContainer"
+        },
+        "df556f449a774dfdb2c3d3accbdaff40": {
+          "id": "flxFirstName",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxFirstName.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxFirstName"
+        },
+        "j04574a9c3b64469af10410957bbd03b": {
+          "id": "lblFirstName",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblFirstName.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblFirstName"
+        },
+        "cc3a9b186f7d40b792e8fdb8e11224db": {
+          "id": "txtFirstName",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtFirstName.json",
+          "wType": "TextField",
+          "name": "kony.ui.TextBox2",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.txtFirstName"
+        },
+        "ce080b38f8154e149f1200efbff53dd1": {
+          "id": "flxLastName",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxLastName.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxLastName"
+        },
+        "add6bf33c01e4a82beeb050c7047778c": {
+          "id": "lblLastname",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblLastname.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblLastname"
+        },
+        "ed5f659eaf564fd299b3299e19367b91": {
+          "id": "txtLastName",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtLastName.json",
+          "wType": "TextField",
+          "name": "kony.ui.TextBox2",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.txtLastName"
+        },
+        "d1d0bcd5558645e5926ecaac611964d8": {
+          "id": "flxEmail",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxEmail.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxEmail"
+        },
+        "d7d05a2b83f44363921bb1bf9be0bccd": {
+          "id": "lblEmail",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblEmail.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblEmail"
+        },
+        "jf0b864d845c4d509f95703c989c4ab3": {
+          "id": "txtEmail",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtEmail.json",
+          "wType": "TextField",
+          "name": "kony.ui.TextBox2",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.txtEmail"
+        },
+        "cd48b373ea8945b9a2a5ab5610cf0ec8": {
+          "id": "flxDepartment",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxDepartment.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxDepartment"
+        },
+        "c15b418d434e4b49a73fa897c9d4d8cf": {
+          "id": "lblDepartment",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblDepartment.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblDepartment"
+        },
+        "e7c19aabc139408ab0e15e349b45f699": {
+          "id": "txtDepartment",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDepartment.json",
+          "wType": "TextField",
+          "name": "kony.ui.TextBox2",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.txtDepartment"
+        },
+        "ce14bbbca8eb43d6b62a312a159ef1a5": {
+          "id": "flxDesignation",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxDesignation.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxDesignation"
+        },
+        "a567ece9322848c7a6c03458bc40df3d": {
+          "id": "lblDesignation",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblDesignation.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblDesignation"
+        },
+        "f7927b2d770b46f9a75bdf1b5532ddb8": {
+          "id": "txtDesignation",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDesignation.json",
+          "wType": "TextField",
+          "name": "kony.ui.TextBox2",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.txtDesignation"
+        },
+        "b230be0f143c4b429aa0a64450e0f398": {
+          "id": "flxPhone",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxPhone.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxPhone"
+        },
+        "dc8b21c413f04430befc85661006efb3": {
+          "id": "lblPhone",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblPhone.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblPhone"
+        },
+        "e3f23bd7c02344679a98be5e0d37f95b": {
+          "id": "txtPhone",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtPhone.json",
+          "wType": "TextField",
+          "name": "kony.ui.TextBox2",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.txtPhone"
+        },
+        "ae603b52fc5b429eb4e08797394d3097": {
+          "id": "flxCompany",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxCompany.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxCompany"
+        },
+        "j8c9d9d68cd545399a9cc512533da0d1": {
+          "id": "lblCompany",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblCompany.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblCompany"
+        },
+        "ada9923465004618b781b95ed7ae37b9": {
+          "id": "txtCompany",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtCompany.json",
+          "wType": "TextField",
+          "name": "kony.ui.TextBox2",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.txtCompany"
+        },
+        "f73386a4e9304768b6bd2cc164ed522f": {
+          "id": "flxSave",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxSave.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxSave"
+        },
+        "eef0c96c8fd04aba8f4f12944ae278c8": {
+          "id": "SquaredBorderedButton",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\SquaredBorderedButton.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.SquaredBorderedButton"
+        },
+        "b2b80f0db1824c8a8dff1e4abd858e0e": {
+          "id": "SquaredBtn",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\SquaredBtn.json",
+          "wType": "Button",
+          "name": "kony.ui.Button",
+          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.SquaredBtn"
+        }
+      }
+    },
     "fdfe70dee75441e7baff4fd441b870fc": {
       "dependencies": [
         {
@@ -2094,8 +3249,27 @@
         }
       }
     },
-    "ad8313e817b3405eb677ca91d351df8f": {
+    "98fa9328fd884aac68044bf426d080aa": {
       "dependencies": [
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknFrmManageBeneficiaries",
+            "kuid": "sfe0d2bf6203c772f22f5f1c80ba60ed",
+            "wType": "Form",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "98fa9328fd884aac68044bf426d080aa",
+            "wType": "Form",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\ManageBeneficiaries.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
         {
           "dependency": {
             "type": "kskin",
@@ -2107,9 +3281,9 @@
             "forkedPlatforms": []
           },
           "relationInfo": {
-            "kuid": "ad8313e817b3405eb677ca91d351df8f",
-            "wType": "Form",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\frmStartup.json",
+            "kuid": "5a85765be229a5f91a866ad1042b05d8",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxHeader.json",
             "keyPath": [
               "_skin_"
             ]
@@ -2118,36 +3292,17 @@
         {
           "dependency": {
             "type": "kskin",
-            "id": "slTitleBar",
-            "kuid": "s7c2028af1a84384b11825e5ea71b5d2",
-            "wType": "TitleBar",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
             "theme": "defaultTheme",
             "isDefaultSkin": true,
             "forkedPlatforms": []
           },
           "relationInfo": {
-            "kuid": "ad8313e817b3405eb677ca91d351df8f",
-            "wType": "Form",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\frmStartup.json",
-            "keyPath": [
-              "titleBarSkin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "headerContainerSknMaster",
-            "kuid": "s5b7da96f4f5486fb5e4338af3dc03c6",
-            "wType": "FlexContainer",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "d94f0f60b4da4a0e8c206387b9ca5e17",
-            "wType": "FlexContainer",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxHeaderContainer.json",
+            "kuid": "040fed75c5c294a6d54faed0f050d21a",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgBack.json",
             "keyPath": [
               "_skin_"
             ]
@@ -2156,767 +3311,25 @@
         {
           "dependency": {
             "type": "kskin",
-            "id": "headerTitleSkinMaster",
-            "kuid": "sb1991b46f8f4ec891a4d6dbd542bf0a",
+            "id": "sknLblRowHeading",
+            "kuid": "sc47c849c0aa48b09bd71aa51f24f0e2",
             "wType": "Label",
             "theme": "defaultTheme",
             "isDefaultSkin": false,
             "forkedPlatforms": [
               "iphone",
-              "android"
-            ]
-          },
-          "relationInfo": {
-            "kuid": "ef98cbab8a214c7d9278e60c8ced8f37",
-            "wType": "Label",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\headerTitleLabel.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "slFbox",
-            "kuid": "s6802ea62ca5455fa0208acb21b80077",
-            "wType": "FlexContainer",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "id75af671c5e400081ed3821206ad469",
-            "wType": "FlexContainer",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxCreateScrollContainer.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "slFbox",
-            "kuid": "s6802ea62ca5455fa0208acb21b80077",
-            "wType": "FlexContainer",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "df556f449a774dfdb2c3d3accbdaff40",
-            "wType": "FlexContainer",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxFirstName.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "sknLblCreateTitle",
-            "kuid": "s3f7fd6f09d149cca47af210807b3198",
-            "wType": "Label",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "j04574a9c3b64469af10410957bbd03b",
-            "wType": "Label",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblFirstName.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxNormal",
-            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "cc3a9b186f7d40b792e8fdb8e11224db",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtFirstName.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxFocus",
-            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "cc3a9b186f7d40b792e8fdb8e11224db",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtFirstName.json",
-            "keyPath": [
-              "focusskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
-            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "cc3a9b186f7d40b792e8fdb8e11224db",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtFirstName.json",
-            "keyPath": [
-              "placeholderskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "slFbox",
-            "kuid": "s6802ea62ca5455fa0208acb21b80077",
-            "wType": "FlexContainer",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "ce080b38f8154e149f1200efbff53dd1",
-            "wType": "FlexContainer",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxLastName.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "sknLblCreateTitle",
-            "kuid": "s3f7fd6f09d149cca47af210807b3198",
-            "wType": "Label",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "add6bf33c01e4a82beeb050c7047778c",
-            "wType": "Label",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblLastname.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxNormal",
-            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "ed5f659eaf564fd299b3299e19367b91",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtLastName.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxFocus",
-            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "ed5f659eaf564fd299b3299e19367b91",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtLastName.json",
-            "keyPath": [
-              "focusskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
-            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "ed5f659eaf564fd299b3299e19367b91",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtLastName.json",
-            "keyPath": [
-              "placeholderskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "slFbox",
-            "kuid": "s6802ea62ca5455fa0208acb21b80077",
-            "wType": "FlexContainer",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "d1d0bcd5558645e5926ecaac611964d8",
-            "wType": "FlexContainer",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxEmail.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "sknLblCreateTitle",
-            "kuid": "s3f7fd6f09d149cca47af210807b3198",
-            "wType": "Label",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "d7d05a2b83f44363921bb1bf9be0bccd",
-            "wType": "Label",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblEmail.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxNormal",
-            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "jf0b864d845c4d509f95703c989c4ab3",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtEmail.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxFocus",
-            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "jf0b864d845c4d509f95703c989c4ab3",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtEmail.json",
-            "keyPath": [
-              "focusskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
-            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "jf0b864d845c4d509f95703c989c4ab3",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtEmail.json",
-            "keyPath": [
-              "placeholderskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "slFbox",
-            "kuid": "s6802ea62ca5455fa0208acb21b80077",
-            "wType": "FlexContainer",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "cd48b373ea8945b9a2a5ab5610cf0ec8",
-            "wType": "FlexContainer",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxDepartment.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "sknLblCreateTitle",
-            "kuid": "s3f7fd6f09d149cca47af210807b3198",
-            "wType": "Label",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "c15b418d434e4b49a73fa897c9d4d8cf",
-            "wType": "Label",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblDepartment.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxNormal",
-            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "e7c19aabc139408ab0e15e349b45f699",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDepartment.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxFocus",
-            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "e7c19aabc139408ab0e15e349b45f699",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDepartment.json",
-            "keyPath": [
-              "focusskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
-            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "e7c19aabc139408ab0e15e349b45f699",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDepartment.json",
-            "keyPath": [
-              "placeholderskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "slFbox",
-            "kuid": "s6802ea62ca5455fa0208acb21b80077",
-            "wType": "FlexContainer",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "ce14bbbca8eb43d6b62a312a159ef1a5",
-            "wType": "FlexContainer",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxDesignation.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "sknLblCreateTitle",
-            "kuid": "s3f7fd6f09d149cca47af210807b3198",
-            "wType": "Label",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "a567ece9322848c7a6c03458bc40df3d",
-            "wType": "Label",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblDesignation.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxNormal",
-            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "f7927b2d770b46f9a75bdf1b5532ddb8",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDesignation.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxFocus",
-            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "f7927b2d770b46f9a75bdf1b5532ddb8",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDesignation.json",
-            "keyPath": [
-              "focusskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
-            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "f7927b2d770b46f9a75bdf1b5532ddb8",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDesignation.json",
-            "keyPath": [
-              "placeholderskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "slFbox",
-            "kuid": "s6802ea62ca5455fa0208acb21b80077",
-            "wType": "FlexContainer",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "b230be0f143c4b429aa0a64450e0f398",
-            "wType": "FlexContainer",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxPhone.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "sknLblCreateTitle",
-            "kuid": "s3f7fd6f09d149cca47af210807b3198",
-            "wType": "Label",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "dc8b21c413f04430befc85661006efb3",
-            "wType": "Label",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblPhone.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxNormal",
-            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "e3f23bd7c02344679a98be5e0d37f95b",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtPhone.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxFocus",
-            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "e3f23bd7c02344679a98be5e0d37f95b",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtPhone.json",
-            "keyPath": [
-              "focusskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
-            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "e3f23bd7c02344679a98be5e0d37f95b",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtPhone.json",
-            "keyPath": [
-              "placeholderskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "slFbox",
-            "kuid": "s6802ea62ca5455fa0208acb21b80077",
-            "wType": "FlexContainer",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "ae603b52fc5b429eb4e08797394d3097",
-            "wType": "FlexContainer",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxCompany.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "sknLblCreateTitle",
-            "kuid": "s3f7fd6f09d149cca47af210807b3198",
-            "wType": "Label",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "j8c9d9d68cd545399a9cc512533da0d1",
-            "wType": "Label",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblCompany.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxNormal",
-            "kuid": "sb3d466ec332459bab040f71f6bed2f2",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "ada9923465004618b781b95ed7ae37b9",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtCompany.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "defTextBoxFocus",
-            "kuid": "se0b33d2871f42908d8cbf37d9cf7dcc",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": true,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "ada9923465004618b781b95ed7ae37b9",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtCompany.json",
-            "keyPath": [
-              "focusskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "CopydefTextBoxPlaceholder0h7c3742b0d184a",
-            "kuid": "sa601ff27437466c93c0e279ff8ed4e4",
-            "wType": "TextField",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "ada9923465004618b781b95ed7ae37b9",
-            "wType": "TextField",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtCompany.json",
-            "keyPath": [
-              "placeholderskin"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "slFbox0cad1aa24bf674f",
-            "kuid": "s601669625a64b8299471cc55da5cb66",
-            "wType": "FlexContainer",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "f73386a4e9304768b6bd2cc164ed522f",
-            "wType": "FlexContainer",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxSave.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "CopyslFbox1",
-            "kuid": "s37c30137f1642e1a5596e134a89f072",
-            "wType": "FlexContainer",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": []
-          },
-          "relationInfo": {
-            "kuid": "eef0c96c8fd04aba8f4f12944ae278c8",
-            "wType": "FlexContainer",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\SquaredBorderedButton.json",
-            "keyPath": [
-              "_skin_"
-            ]
-          }
-        },
-        {
-          "dependency": {
-            "type": "kskin",
-            "id": "CopySquaredBorderedButtonNormal",
-            "kuid": "saefc543790443ad87ab4de9909445bb",
-            "wType": "Button",
-            "theme": "defaultTheme",
-            "isDefaultSkin": false,
-            "forkedPlatforms": [
-              "iphone",
+              "android",
               "ipad",
               "tabrcandroid",
               "desktopweb",
-              "watchos"
+              "watchos",
+              "androidwearos"
             ]
           },
           "relationInfo": {
-            "kuid": "b2b80f0db1824c8a8dff1e4abd858e0e",
-            "wType": "Button",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\SquaredBtn.json",
+            "kuid": "511980f1e5967d7c2facb3072a4b70e9",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblHeaderTitle.json",
             "keyPath": [
               "_skin_"
             ]
@@ -2925,8 +3338,195 @@
         {
           "dependency": {
             "type": "kskin",
-            "id": "CopySquaredBorderedButtonActive",
-            "kuid": "sa2873f96f924117b257235a2a9bc428",
+            "id": "sknLblRowHeading",
+            "kuid": "sc47c849c0aa48b09bd71aa51f24f0e2",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": [
+              "iphone",
+              "android",
+              "ipad",
+              "tabrcandroid",
+              "desktopweb",
+              "watchos",
+              "androidwearos"
+            ]
+          },
+          "relationInfo": {
+            "kuid": "74c130c9cfa3cfebca15f4aeb5881c42",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblReviewTitle.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknFlxCard",
+            "kuid": "s42cf0b383e7cee10e18093a891d8b7d",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "fd0378fa1167a2181d6df7de10b6819a",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxBankDetailsCard.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblRowHeading",
+            "kuid": "sc47c849c0aa48b09bd71aa51f24f0e2",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": [
+              "iphone",
+              "android",
+              "ipad",
+              "tabrcandroid",
+              "desktopweb",
+              "watchos",
+              "androidwearos"
+            ]
+          },
+          "relationInfo": {
+            "kuid": "66124332b10a0e9604e1b562b60d1cd5",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblBankDetailsHeading.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblDescription",
+            "kuid": "s3fc7b721d2840309f2d8b7f430f5b83",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "a613147f8c59f64cce93f90a91440613",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblAccountNumberCaption.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblCreateTitle",
+            "kuid": "s3f7fd6f09d149cca47af210807b3198",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "2c61acb9af48c86de7a5baa1c8146aef",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblAccountNumberValue.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblDescription",
+            "kuid": "s3fc7b721d2840309f2d8b7f430f5b83",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "fd9e501bbf4d5b065d1d3694e7dfc260",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblBankCaption.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblCreateTitle",
+            "kuid": "s3f7fd6f09d149cca47af210807b3198",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "1f5ab5dc754af0544d038c30947d9131",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblBankValue.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblDescription",
+            "kuid": "s3fc7b721d2840309f2d8b7f430f5b83",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "53c5f26797f88310907084cc6b36282b",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblBeneficiaryCaption.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblCreateTitle",
+            "kuid": "s3f7fd6f09d149cca47af210807b3198",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "350ffa5e2ff3664e442b7f122c546651",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblBeneficiaryValue.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknBtnConfirmNormal",
+            "kuid": "s5a16c9cb8337047927afbad8fdd5b83",
             "wType": "Button",
             "theme": "defaultTheme",
             "isDefaultSkin": false,
@@ -2940,312 +3540,1638 @@
             ]
           },
           "relationInfo": {
-            "kuid": "b2b80f0db1824c8a8dff1e4abd858e0e",
+            "kuid": "8b4e4bbc43c29b1963606fce45b2ee76",
             "wType": "Button",
-            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\SquaredBtn.json",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\btnConfirm.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknBtnConfirmFocus",
+            "kuid": "sfc1b127e7b47e74a36fca42d7ba3aae",
+            "wType": "Button",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": [
+              "iphone",
+              "android",
+              "ipad",
+              "tabrcandroid",
+              "desktopweb",
+              "watchos"
+            ]
+          },
+          "relationInfo": {
+            "kuid": "8b4e4bbc43c29b1963606fce45b2ee76",
+            "wType": "Button",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\btnConfirm.json",
             "keyPath": [
               "focusskin"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slForm",
+            "kuid": "sfbe0b910dfe4363bf286a9d2ada7748",
+            "wType": "Form",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ca1465dbd871a9ae7d87ecfeeb53dc08",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxBottomTabBar.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "2fbcc5937f2e74d87975d1495b18f376",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxTabOverview.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ad1c938f2eda93819acf2f352bf5a71f",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgTabOverview.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblDescription",
+            "kuid": "s3fc7b721d2840309f2d8b7f430f5b83",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "60258a24fcf0d79ea277a0f8d740713e",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblTabOverview.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "96c2bc79472e8ab1b29885dba8c4efee",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxTabAccounts.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "5ea2696a9d92b4b7515c7b47f3d79a94",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgTabAccounts.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblDescription",
+            "kuid": "s3fc7b721d2840309f2d8b7f430f5b83",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "91a882dacca67bf9974ac93d9dd309be",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblTabAccounts.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ebfd40c55dff078c808b78a0437c8d6b",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxTabTransfer.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "07eb15282f12b75da7fd50dcb022bdcf",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgTabTransfer.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblRowHeading",
+            "kuid": "sc47c849c0aa48b09bd71aa51f24f0e2",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": [
+              "iphone",
+              "android",
+              "ipad",
+              "tabrcandroid",
+              "desktopweb",
+              "watchos",
+              "androidwearos"
+            ]
+          },
+          "relationInfo": {
+            "kuid": "861f26c30dc9337f76b3194f4d67fc71",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblTabTransfer.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "aebdfc5d3a7f739a912b2d5f1770dd36",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxTabPayment.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "dd1f215b64cf7abb2bb44095b278be07",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgTabPayment.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblDescription",
+            "kuid": "s3fc7b721d2840309f2d8b7f430f5b83",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "cc638ecb5f73c90d9d68e163d2e994e8",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblTabPayment.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "a3fbae5d41e07986c126dc3269e21b98",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxTabMore.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "d2a06dc24f0f4296fbdafcf8497c9194",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgTabMore.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblDescription",
+            "kuid": "s3fc7b721d2840309f2d8b7f430f5b83",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "67cd04df54f64bc6c893f0af555f39ec",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblTabMore.json",
+            "keyPath": [
+              "_skin_"
             ]
           }
         }
       ],
       "models": {
-        "ad8313e817b3405eb677ca91d351df8f": {
-          "id": "frmStartup",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\frmStartup.json",
+        "98fa9328fd884aac68044bf426d080aa": {
+          "id": "ManageBeneficiaries",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\ManageBeneficiaries.json",
           "wType": "Form",
           "name": "kony.ui.Form2",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
           "layoutType": 2,
           "isUDWInstanceModel": false,
           "isRealChildOfTargetContainer": false,
           "runtimePath": "this.view"
         },
-        "d94f0f60b4da4a0e8c206387b9ca5e17": {
-          "id": "flxHeaderContainer",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxHeaderContainer.json",
+        "5a85765be229a5f91a866ad1042b05d8": {
+          "id": "flxHeader",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxHeader.json",
           "wType": "FlexContainer",
           "name": "kony.ui.FlexContainer",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
           "layoutType": 2,
           "masterType": 1,
           "isUDWInstanceModel": false,
           "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.flxHeaderContainer"
+          "runtimePath": "this.view.flxHeader"
         },
-        "ef98cbab8a214c7d9278e60c8ced8f37": {
-          "id": "headerTitleLabel",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\headerTitleLabel.json",
-          "wType": "Label",
-          "name": "kony.ui.Label",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+        "040fed75c5c294a6d54faed0f050d21a": {
+          "id": "imgBack",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgBack.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
           "masterType": 1,
           "isUDWInstanceModel": false,
           "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.headerTitleLabel"
+          "runtimePath": "this.view.imgBack"
         },
-        "id75af671c5e400081ed3821206ad469": {
-          "id": "flxCreateScrollContainer",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxCreateScrollContainer.json",
-          "wType": "FlexContainer",
-          "name": "kony.ui.FlexContainer",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "layoutType": 4,
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.flxCreateScrollContainer"
-        },
-        "df556f449a774dfdb2c3d3accbdaff40": {
-          "id": "flxFirstName",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxFirstName.json",
-          "wType": "FlexContainer",
-          "name": "kony.ui.FlexContainer",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "layoutType": 2,
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.flxFirstName"
-        },
-        "j04574a9c3b64469af10410957bbd03b": {
-          "id": "lblFirstName",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblFirstName.json",
+        "511980f1e5967d7c2facb3072a4b70e9": {
+          "id": "lblHeaderTitle",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblHeaderTitle.json",
           "wType": "Label",
           "name": "kony.ui.Label",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
           "isUDWInstanceModel": false,
           "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.lblFirstName"
+          "runtimePath": "this.view.lblHeaderTitle"
         },
-        "cc3a9b186f7d40b792e8fdb8e11224db": {
-          "id": "txtFirstName",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtFirstName.json",
-          "wType": "TextField",
-          "name": "kony.ui.TextBox2",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.txtFirstName"
-        },
-        "ce080b38f8154e149f1200efbff53dd1": {
-          "id": "flxLastName",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxLastName.json",
-          "wType": "FlexContainer",
-          "name": "kony.ui.FlexContainer",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "layoutType": 2,
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.flxLastName"
-        },
-        "add6bf33c01e4a82beeb050c7047778c": {
-          "id": "lblLastname",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblLastname.json",
+        "74c130c9cfa3cfebca15f4aeb5881c42": {
+          "id": "lblReviewTitle",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblReviewTitle.json",
           "wType": "Label",
           "name": "kony.ui.Label",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
           "isUDWInstanceModel": false,
           "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.lblLastname"
+          "runtimePath": "this.view.lblReviewTitle"
         },
-        "ed5f659eaf564fd299b3299e19367b91": {
-          "id": "txtLastName",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtLastName.json",
-          "wType": "TextField",
-          "name": "kony.ui.TextBox2",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.txtLastName"
-        },
-        "d1d0bcd5558645e5926ecaac611964d8": {
-          "id": "flxEmail",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxEmail.json",
+        "fd0378fa1167a2181d6df7de10b6819a": {
+          "id": "flxBankDetailsCard",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxBankDetailsCard.json",
           "wType": "FlexContainer",
           "name": "kony.ui.FlexContainer",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "layoutType": 2,
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.flxEmail"
-        },
-        "d7d05a2b83f44363921bb1bf9be0bccd": {
-          "id": "lblEmail",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblEmail.json",
-          "wType": "Label",
-          "name": "kony.ui.Label",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.lblEmail"
-        },
-        "jf0b864d845c4d509f95703c989c4ab3": {
-          "id": "txtEmail",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtEmail.json",
-          "wType": "TextField",
-          "name": "kony.ui.TextBox2",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.txtEmail"
-        },
-        "cd48b373ea8945b9a2a5ab5610cf0ec8": {
-          "id": "flxDepartment",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxDepartment.json",
-          "wType": "FlexContainer",
-          "name": "kony.ui.FlexContainer",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "layoutType": 2,
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.flxDepartment"
-        },
-        "c15b418d434e4b49a73fa897c9d4d8cf": {
-          "id": "lblDepartment",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblDepartment.json",
-          "wType": "Label",
-          "name": "kony.ui.Label",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.lblDepartment"
-        },
-        "e7c19aabc139408ab0e15e349b45f699": {
-          "id": "txtDepartment",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDepartment.json",
-          "wType": "TextField",
-          "name": "kony.ui.TextBox2",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.txtDepartment"
-        },
-        "ce14bbbca8eb43d6b62a312a159ef1a5": {
-          "id": "flxDesignation",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxDesignation.json",
-          "wType": "FlexContainer",
-          "name": "kony.ui.FlexContainer",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "layoutType": 2,
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.flxDesignation"
-        },
-        "a567ece9322848c7a6c03458bc40df3d": {
-          "id": "lblDesignation",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblDesignation.json",
-          "wType": "Label",
-          "name": "kony.ui.Label",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.lblDesignation"
-        },
-        "f7927b2d770b46f9a75bdf1b5532ddb8": {
-          "id": "txtDesignation",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtDesignation.json",
-          "wType": "TextField",
-          "name": "kony.ui.TextBox2",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.txtDesignation"
-        },
-        "b230be0f143c4b429aa0a64450e0f398": {
-          "id": "flxPhone",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxPhone.json",
-          "wType": "FlexContainer",
-          "name": "kony.ui.FlexContainer",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "layoutType": 2,
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.flxPhone"
-        },
-        "dc8b21c413f04430befc85661006efb3": {
-          "id": "lblPhone",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblPhone.json",
-          "wType": "Label",
-          "name": "kony.ui.Label",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.lblPhone"
-        },
-        "e3f23bd7c02344679a98be5e0d37f95b": {
-          "id": "txtPhone",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtPhone.json",
-          "wType": "TextField",
-          "name": "kony.ui.TextBox2",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.txtPhone"
-        },
-        "ae603b52fc5b429eb4e08797394d3097": {
-          "id": "flxCompany",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxCompany.json",
-          "wType": "FlexContainer",
-          "name": "kony.ui.FlexContainer",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "layoutType": 2,
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.flxCompany"
-        },
-        "j8c9d9d68cd545399a9cc512533da0d1": {
-          "id": "lblCompany",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\lblCompany.json",
-          "wType": "Label",
-          "name": "kony.ui.Label",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.lblCompany"
-        },
-        "ada9923465004618b781b95ed7ae37b9": {
-          "id": "txtCompany",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\txtCompany.json",
-          "wType": "TextField",
-          "name": "kony.ui.TextBox2",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "isUDWInstanceModel": false,
-          "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.txtCompany"
-        },
-        "f73386a4e9304768b6bd2cc164ed522f": {
-          "id": "flxSave",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\flxSave.json",
-          "wType": "FlexContainer",
-          "name": "kony.ui.FlexContainer",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
           "layoutType": 2,
           "masterType": 1,
           "isUDWInstanceModel": false,
           "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.flxSave"
+          "runtimePath": "this.view.flxBankDetailsCard"
         },
-        "eef0c96c8fd04aba8f4f12944ae278c8": {
-          "id": "SquaredBorderedButton",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\SquaredBorderedButton.json",
-          "wType": "FlexContainer",
-          "name": "kony.ui.FlexContainer",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
-          "layoutType": 2,
+        "66124332b10a0e9604e1b562b60d1cd5": {
+          "id": "lblBankDetailsHeading",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblBankDetailsHeading.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
           "masterType": 1,
           "isUDWInstanceModel": false,
           "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.SquaredBorderedButton"
+          "runtimePath": "this.view.lblBankDetailsHeading"
         },
-        "b2b80f0db1824c8a8dff1e4abd858e0e": {
-          "id": "SquaredBtn",
-          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\PreLogin\\frmStartup.sm\\SquaredBtn.json",
+        "a613147f8c59f64cce93f90a91440613": {
+          "id": "lblAccountNumberCaption",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblAccountNumberCaption.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblAccountNumberCaption"
+        },
+        "2c61acb9af48c86de7a5baa1c8146aef": {
+          "id": "lblAccountNumberValue",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblAccountNumberValue.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblAccountNumberValue"
+        },
+        "fd9e501bbf4d5b065d1d3694e7dfc260": {
+          "id": "lblBankCaption",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblBankCaption.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblBankCaption"
+        },
+        "1f5ab5dc754af0544d038c30947d9131": {
+          "id": "lblBankValue",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblBankValue.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblBankValue"
+        },
+        "53c5f26797f88310907084cc6b36282b": {
+          "id": "lblBeneficiaryCaption",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblBeneficiaryCaption.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblBeneficiaryCaption"
+        },
+        "350ffa5e2ff3664e442b7f122c546651": {
+          "id": "lblBeneficiaryValue",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblBeneficiaryValue.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblBeneficiaryValue"
+        },
+        "8b4e4bbc43c29b1963606fce45b2ee76": {
+          "id": "btnConfirm",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\btnConfirm.json",
           "wType": "Button",
           "name": "kony.ui.Button",
-          "entityKUID": "ad8313e817b3405eb677ca91d351df8f",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.btnConfirm"
+        },
+        "ca1465dbd871a9ae7d87ecfeeb53dc08": {
+          "id": "flxBottomTabBar",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxBottomTabBar.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "layoutType": 2,
           "masterType": 1,
           "isUDWInstanceModel": false,
           "isRealChildOfTargetContainer": false,
-          "runtimePath": "this.view.SquaredBtn"
+          "runtimePath": "this.view.flxBottomTabBar"
+        },
+        "2fbcc5937f2e74d87975d1495b18f376": {
+          "id": "flxTabOverview",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxTabOverview.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTabOverview"
+        },
+        "ad1c938f2eda93819acf2f352bf5a71f": {
+          "id": "imgTabOverview",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgTabOverview.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTabOverview"
+        },
+        "60258a24fcf0d79ea277a0f8d740713e": {
+          "id": "lblTabOverview",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblTabOverview.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTabOverview"
+        },
+        "96c2bc79472e8ab1b29885dba8c4efee": {
+          "id": "flxTabAccounts",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxTabAccounts.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTabAccounts"
+        },
+        "5ea2696a9d92b4b7515c7b47f3d79a94": {
+          "id": "imgTabAccounts",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgTabAccounts.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTabAccounts"
+        },
+        "91a882dacca67bf9974ac93d9dd309be": {
+          "id": "lblTabAccounts",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblTabAccounts.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTabAccounts"
+        },
+        "ebfd40c55dff078c808b78a0437c8d6b": {
+          "id": "flxTabTransfer",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxTabTransfer.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTabTransfer"
+        },
+        "07eb15282f12b75da7fd50dcb022bdcf": {
+          "id": "imgTabTransfer",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgTabTransfer.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTabTransfer"
+        },
+        "861f26c30dc9337f76b3194f4d67fc71": {
+          "id": "lblTabTransfer",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblTabTransfer.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTabTransfer"
+        },
+        "aebdfc5d3a7f739a912b2d5f1770dd36": {
+          "id": "flxTabPayment",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxTabPayment.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTabPayment"
+        },
+        "dd1f215b64cf7abb2bb44095b278be07": {
+          "id": "imgTabPayment",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgTabPayment.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTabPayment"
+        },
+        "cc638ecb5f73c90d9d68e163d2e994e8": {
+          "id": "lblTabPayment",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblTabPayment.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTabPayment"
+        },
+        "a3fbae5d41e07986c126dc3269e21b98": {
+          "id": "flxTabMore",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\flxTabMore.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTabMore"
+        },
+        "d2a06dc24f0f4296fbdafcf8497c9194": {
+          "id": "imgTabMore",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\imgTabMore.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTabMore"
+        },
+        "67cd04df54f64bc6c893f0af555f39ec": {
+          "id": "lblTabMore",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\ManageBeneficiaries.sm\\lblTabMore.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "98fa9328fd884aac68044bf426d080aa",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTabMore"
+        }
+      }
+    },
+    "59d48303aa5ead287e73e3faf89a45c6": {
+      "dependencies": [
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slForm",
+            "kuid": "sfbe0b910dfe4363bf286a9d2ada7748",
+            "wType": "Form",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "59d48303aa5ead287e73e3faf89a45c6",
+            "wType": "Form",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\Payments.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "dc1a4e821fe17e983d0a5c00dc64ff39",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxHeader.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "1234fbf0bfe42024ba8f65fbe52dc5bd",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgBack.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblRowHeading",
+            "kuid": "sc47c849c0aa48b09bd71aa51f24f0e2",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": [
+              "iphone",
+              "android",
+              "ipad",
+              "tabrcandroid",
+              "desktopweb",
+              "watchos",
+              "androidwearos"
+            ]
+          },
+          "relationInfo": {
+            "kuid": "2f48331bd75c75c54244465e705a2b43",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblPaymentsTitle.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "7dfa76977a19dcbfd7691a858c56abde",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgNotification.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "f3035fb2687ed5034e11c9fd4f933949",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgAvatar.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slForm",
+            "kuid": "sfbe0b910dfe4363bf286a9d2ada7748",
+            "wType": "Form",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "37f6fd4b5858ab199525bc890c90c67a",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTransferBillCard.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "dabc85c651287b593db865c04ca6964e",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTransferMoney.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblRowHeading",
+            "kuid": "sc47c849c0aa48b09bd71aa51f24f0e2",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": [
+              "iphone",
+              "android",
+              "ipad",
+              "tabrcandroid",
+              "desktopweb",
+              "watchos",
+              "androidwearos"
+            ]
+          },
+          "relationInfo": {
+            "kuid": "0bca3905e6e84039e23333535a78c278",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTransferMoney.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "ca70350ca336fa2b0f7794f2a723983c",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTransferBadge.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "c017c71f52f7d718adaf11ab68177eda",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTransferArrow.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "4904b7cf6e375196e785d6c2296d2240",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxBillPayment.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblRowHeading",
+            "kuid": "sc47c849c0aa48b09bd71aa51f24f0e2",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": [
+              "iphone",
+              "android",
+              "ipad",
+              "tabrcandroid",
+              "desktopweb",
+              "watchos",
+              "androidwearos"
+            ]
+          },
+          "relationInfo": {
+            "kuid": "57866728f51739e363a7dec45b35ca8a",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblBillPayment.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "c8df5adc864d6868a0c0188bf7ab6139",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgBillArrow.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slForm",
+            "kuid": "sfbe0b910dfe4363bf286a9d2ada7748",
+            "wType": "Form",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "acfed39932768efb470c8aa80c1148d0",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxBottomTabBar.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "4af84664c24fd5523b3d76e087204e86",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTabOverview.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "25fe570052d2d9498e54a39460166b11",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTabOverview.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblDescription",
+            "kuid": "s3fc7b721d2840309f2d8b7f430f5b83",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "4e4fa0d52d0062f6233d9c1a68774c19",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTabOverview.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "03ef0b4b5c96b6c5fa79c8456e219bd8",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTabAccounts.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "0c9d32b611ca5db6199ff0c81afe11cd",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTabAccounts.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblDescription",
+            "kuid": "s3fc7b721d2840309f2d8b7f430f5b83",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "f03879bf0951a01bf335c14311d5c23f",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTabAccounts.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "e47ae54caf9271f9e9518fb488101b3c",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTabTransfer.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "f58b59788509e8a0cc9a65292ae0d280",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTabTransfer.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblRowHeading",
+            "kuid": "sc47c849c0aa48b09bd71aa51f24f0e2",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": [
+              "iphone",
+              "android",
+              "ipad",
+              "tabrcandroid",
+              "desktopweb",
+              "watchos",
+              "androidwearos"
+            ]
+          },
+          "relationInfo": {
+            "kuid": "2c1dccc70cddbdbf0aa30196a65ea529",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTabTransfer.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "8eed24c7cbeda2ffcb8ff01c32b40cdd",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTabPayment.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "426a5993d22a86262720782253ce76ee",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTabPayment.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblDescription",
+            "kuid": "s3fc7b721d2840309f2d8b7f430f5b83",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "4374b70a091d8ead2dbd627b69d8789b",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTabPayment.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "954582b92b8b2e3c13a9af059f064be0",
+            "wType": "FlexContainer",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTabMore.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "slFbox",
+            "kuid": "s6802ea62ca5455fa0208acb21b80077",
+            "wType": "FlexContainer",
+            "theme": "defaultTheme",
+            "isDefaultSkin": true,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "80c68630f8014c293d79ee1d10c326e2",
+            "wType": "Image2",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTabMore.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        },
+        {
+          "dependency": {
+            "type": "kskin",
+            "id": "sknLblDescription",
+            "kuid": "s3fc7b721d2840309f2d8b7f430f5b83",
+            "wType": "Label",
+            "theme": "defaultTheme",
+            "isDefaultSkin": false,
+            "forkedPlatforms": []
+          },
+          "relationInfo": {
+            "kuid": "6f62690448cf6cc06b370c909ee90804",
+            "wType": "Label",
+            "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTabMore.json",
+            "keyPath": [
+              "_skin_"
+            ]
+          }
+        }
+      ],
+      "models": {
+        "59d48303aa5ead287e73e3faf89a45c6": {
+          "id": "Payments",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\Payments.json",
+          "wType": "Form",
+          "name": "kony.ui.Form2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view"
+        },
+        "dc1a4e821fe17e983d0a5c00dc64ff39": {
+          "id": "flxHeader",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxHeader.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxHeader"
+        },
+        "1234fbf0bfe42024ba8f65fbe52dc5bd": {
+          "id": "imgBack",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgBack.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgBack"
+        },
+        "2f48331bd75c75c54244465e705a2b43": {
+          "id": "lblPaymentsTitle",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblPaymentsTitle.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblPaymentsTitle"
+        },
+        "7dfa76977a19dcbfd7691a858c56abde": {
+          "id": "imgNotification",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgNotification.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgNotification"
+        },
+        "f3035fb2687ed5034e11c9fd4f933949": {
+          "id": "imgAvatar",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgAvatar.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgAvatar"
+        },
+        "37f6fd4b5858ab199525bc890c90c67a": {
+          "id": "flxTransferBillCard",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTransferBillCard.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTransferBillCard"
+        },
+        "dabc85c651287b593db865c04ca6964e": {
+          "id": "flxTransferMoney",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTransferMoney.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTransferMoney"
+        },
+        "0bca3905e6e84039e23333535a78c278": {
+          "id": "lblTransferMoney",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTransferMoney.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTransferMoney"
+        },
+        "ca70350ca336fa2b0f7794f2a723983c": {
+          "id": "imgTransferBadge",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTransferBadge.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTransferBadge"
+        },
+        "c017c71f52f7d718adaf11ab68177eda": {
+          "id": "imgTransferArrow",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTransferArrow.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTransferArrow"
+        },
+        "4904b7cf6e375196e785d6c2296d2240": {
+          "id": "flxBillPayment",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxBillPayment.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxBillPayment"
+        },
+        "57866728f51739e363a7dec45b35ca8a": {
+          "id": "lblBillPayment",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblBillPayment.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblBillPayment"
+        },
+        "c8df5adc864d6868a0c0188bf7ab6139": {
+          "id": "imgBillArrow",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgBillArrow.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgBillArrow"
+        },
+        "acfed39932768efb470c8aa80c1148d0": {
+          "id": "flxBottomTabBar",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxBottomTabBar.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxBottomTabBar"
+        },
+        "4af84664c24fd5523b3d76e087204e86": {
+          "id": "flxTabOverview",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTabOverview.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTabOverview"
+        },
+        "25fe570052d2d9498e54a39460166b11": {
+          "id": "imgTabOverview",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTabOverview.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTabOverview"
+        },
+        "4e4fa0d52d0062f6233d9c1a68774c19": {
+          "id": "lblTabOverview",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTabOverview.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTabOverview"
+        },
+        "03ef0b4b5c96b6c5fa79c8456e219bd8": {
+          "id": "flxTabAccounts",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTabAccounts.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTabAccounts"
+        },
+        "0c9d32b611ca5db6199ff0c81afe11cd": {
+          "id": "imgTabAccounts",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTabAccounts.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTabAccounts"
+        },
+        "f03879bf0951a01bf335c14311d5c23f": {
+          "id": "lblTabAccounts",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTabAccounts.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTabAccounts"
+        },
+        "e47ae54caf9271f9e9518fb488101b3c": {
+          "id": "flxTabTransfer",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTabTransfer.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTabTransfer"
+        },
+        "f58b59788509e8a0cc9a65292ae0d280": {
+          "id": "imgTabTransfer",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTabTransfer.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTabTransfer"
+        },
+        "2c1dccc70cddbdbf0aa30196a65ea529": {
+          "id": "lblTabTransfer",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTabTransfer.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTabTransfer"
+        },
+        "8eed24c7cbeda2ffcb8ff01c32b40cdd": {
+          "id": "flxTabPayment",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTabPayment.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTabPayment"
+        },
+        "426a5993d22a86262720782253ce76ee": {
+          "id": "imgTabPayment",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTabPayment.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTabPayment"
+        },
+        "4374b70a091d8ead2dbd627b69d8789b": {
+          "id": "lblTabPayment",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTabPayment.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTabPayment"
+        },
+        "954582b92b8b2e3c13a9af059f064be0": {
+          "id": "flxTabMore",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\flxTabMore.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "layoutType": 2,
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.flxTabMore"
+        },
+        "80c68630f8014c293d79ee1d10c326e2": {
+          "id": "imgTabMore",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\imgTabMore.json",
+          "wType": "Image2",
+          "name": "kony.ui.Image2",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.imgTabMore"
+        },
+        "6f62690448cf6cc06b370c909ee90804": {
+          "id": "lblTabMore",
+          "filePath": "C:\\Users\\XD\\Documents\\dibSecondTest\\dibTestingRepo\\forms\\mobile\\Test\\Payments.sm\\lblTabMore.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "59d48303aa5ead287e73e3faf89a45c6",
+          "masterType": 1,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTabMore"
         }
       }
     }
@@ -3308,6 +5234,18 @@
       "dependencies": []
     },
     "sb1991b46f8f4ec891a4d6dbd542bf0a": {
+      "dependencies": []
+    },
+    "sfc1b127e7b47e74a36fca42d7ba3aae": {
+      "dependencies": []
+    },
+    "s5a16c9cb8337047927afbad8fdd5b83": {
+      "dependencies": []
+    },
+    "s42cf0b383e7cee10e18093a891d8b7d": {
+      "dependencies": []
+    },
+    "sfe0d2bf6203c772f22f5f1c80ba60ed": {
       "dependencies": []
     },
     "s3f7fd6f09d149cca47af210807b3198": {
